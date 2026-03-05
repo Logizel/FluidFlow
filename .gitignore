@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+models/yolov8n.pt
+
+# Generated at runtime
+db/alerts.db
+cache/*.npy
+
+# Video assets (use Git LFS or Google Drive)
+data/videos/*.mp4
+data/videos/*.avi
