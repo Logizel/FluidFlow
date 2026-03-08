@@ -7,9 +7,6 @@ FluidFlow detects when a crowd is about to become dangerous — before anyone ca
 ---
 
 ## 📸 Demo
-docs/images/demo_normal.png
-docs/images/demo_transitional.png
-docs/images/demo_alert.png
 
 ### Normal Flow — Laminar State
 ![Normal Flow Demo](docs/images/demo_normal.png)
