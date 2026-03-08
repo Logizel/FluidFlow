@@ -158,8 +158,7 @@ streamlit run app.py
 
 ---
 
-### localhost
-# Terminal 1
+### Localhost
 streamlit run app.py
 
 ## 📄 Research Basis
