@@ -220,3 +220,8 @@ cache/*.npy
 # Video assets (use Git LFS or Google Drive)
 data/videos/*.mp4
 data/videos/*.avi
+
+
+cache/normal_flow/*.npy
+cache/transitional/*.npy
+cache/stampede_precursor/*.npy
